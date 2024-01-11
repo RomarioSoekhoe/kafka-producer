@@ -1,20 +1,19 @@
 # Test Producer
 This project contains code to produce messages on kafka topics. The confluentic local kafka is required.
 
-# prerequirements
-- confluentic cli
+## Pre-requirements
+- confluentic cli has started local kafka instance
     - ./confluent local kafka start
-- topics:
+- topics are created:
     - simple-topic
     - simpler-topic
-    - simplest-topic
+    - user-topic
 
+## Data
+Adjust data and topics or schema's to fit your needs.
 
-# data
-Ajust data to fit your needs
-
-# run
+## Run
 
 ```bash
-docker compose up
+docker-compose up -d
 ```
