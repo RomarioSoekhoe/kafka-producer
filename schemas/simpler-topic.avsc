@@ -1,0 +1,40 @@
+{
+  "type": "record",
+  "name": "SimplerMessage",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "logicalType": "uuid"
+    },
+    {
+      "name": "ipAddress",
+      "type": {
+        "type": "record",
+        "name": "IPAddress",
+        "fields": [
+          {
+            "name": "octet1",
+            "type": "int"
+          },
+          {
+            "name": "octet2",
+            "type": "int"
+          },
+          {
+            "name": "octet3",
+            "type": "int"
+          },
+          {
+            "name": "octet4",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "name": "timestamp",
+      "type": "int"
+    }
+  ]
+}

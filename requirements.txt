@@ -1,0 +1,7 @@
+pandas==2.1.4
+requests==2.31.0
+pydantic-settings==2.1.0
+
+confluent-kafka==2.3.0
+avro-python3==1.10.2
+fastavro==1.9.3

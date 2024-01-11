@@ -1,0 +1,56 @@
+{
+  "type": "record",
+  "name": "SimpleMessage",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "logicalType": "uuid"
+    },
+    {
+      "name": "hosts",
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "record",
+          "name": "Host",
+          "fields": [
+            {
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "name": "ipAddress",
+              "type": {
+                "type": "record",
+                "name": "IPAddress",
+                "fields": [
+                  {
+                    "name": "octet1",
+                    "type": "int"
+                  },
+                  {
+                    "name": "octet2",
+                    "type": "int"
+                  },
+                  {
+                    "name": "octet3",
+                    "type": "int"
+                  },
+                  {
+                    "name": "octet4",
+                    "type": "int"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "timestamp",
+      "type": "int"
+    }
+  ]
+}

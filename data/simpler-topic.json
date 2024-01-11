@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+    "ipAddress": {
+      "octet1": 192,
+      "octet2": 168,
+      "octet3": 1,
+      "octet4": 1
+    },
+    "timestamp": 1638372000
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c9",
+    "ipAddress": {
+      "octet1": 192,
+      "octet2": 168,
+      "octet3": 1,
+      "octet4": 2
+    },
+    "timestamp": 1638373000
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430ca",
+    "ipAddress": {
+      "octet1": 192,
+      "octet2": 168,
+      "octet3": 1,
+      "octet4": 3
+    },
+    "timestamp": 1638374000
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cb",
+    "ipAddress": {
+      "octet1": 192,
+      "octet2": 168,
+      "octet3": 1,
+      "octet4": 4
+    },
+    "timestamp": 1638375000
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cc",
+    "ipAddress": {
+      "octet1": 192,
+      "octet2": 168,
+      "octet3": 1,
+      "octet4": 5
+    },
+    "timestamp": 1638376000
+  }
+]

@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  script:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8098:8098
+    networks:
+      - confluent-local-network
+    image: test-producer
+    container_name: test-producer
+    volumes:
+      - ./log:/home/appuser/log 
+      - ./app:/home/appuser/app
+
+    environment:
+      - DEBUG=True
+      - LOG_LEVEL=INFO
+      - KAFKA_BOOTSTRAP_SERVERS=confluent-local-broker-1:43113
+    # secrets:
+    #   - secretName
+
+# secrets:
+#   secretName:
+#     file: ./path_to_file
+
+networks:
+  confluent-local-network:
+    external: true

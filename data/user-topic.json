@@ -1,0 +1,190 @@
+[
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+    "first_name": "Carlos",
+    "last_name": "Gomez",
+    "favorite_number": "42",
+    "favorite_color": "BLUE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430c9",
+    "first_name": "Sofia",
+    "last_name": "Rodriguez",
+    "favorite_number": "7",
+    "favorite_color": "GREEN"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430ca",
+    "first_name": "Luis",
+    "last_name": "Alvarez",
+    "favorite_number": "18",
+    "favorite_color": "RED"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cb",
+    "first_name": "Elena",
+    "last_name": "Lopez",
+    "favorite_number": "33",
+    "favorite_color": "BLACK"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cc",
+    "first_name": "Antonio",
+    "last_name": "Fernandez",
+    "favorite_number": "12",
+    "favorite_color": "WHITE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cd",
+    "first_name": "Pieter",
+    "last_name": "de Vries",
+    "favorite_number": "25",
+    "favorite_color": "BLUE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430ce",
+    "first_name": "Sophie",
+    "last_name": "van der Berg",
+    "favorite_number": "3",
+    "favorite_color": "GREEN"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430cf",
+    "first_name": "Jan",
+    "last_name": "Bakker",
+    "favorite_number": "15",
+    "favorite_color": "RED"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d0",
+    "first_name": "Marie",
+    "last_name": "Dupont",
+    "favorite_number": "22",
+    "favorite_color": "BLACK"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d1",
+    "first_name": "Pierre",
+    "last_name": "Lefevre",
+    "favorite_number": "8",
+    "favorite_color": "WHITE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d2",
+    "first_name": "Lena",
+    "last_name": "Mueller",
+    "favorite_number": "17",
+    "favorite_color": "BLUE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d3",
+    "first_name": "Hans",
+    "last_name": "Schmidt",
+    "favorite_number": "31",
+    "favorite_color": "GREEN"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d4",
+    "first_name": "Greta",
+    "last_name": "Wagner",
+    "favorite_number": "14",
+    "favorite_color": "RED"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d5",
+    "first_name": "Heinz",
+    "last_name": "Muller",
+    "favorite_number": "27",
+    "favorite_color": "BLACK"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d6",
+    "first_name": "Anna",
+    "last_name": "Becker",
+    "favorite_number": "9",
+    "favorite_color": "WHITE"
+  },
+  {
+    "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d7",
+    "first_name": "Friedrich",
+    "last_name": "Schulz",
+    "favorite_number": "20",
+    "favorite_color": "BLUE"
+  },{
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d0",
+      "first_name": "Noah",
+      "last_name": "Jackson",
+      "favorite_number": "22",
+      "favorite_color": "BLACK"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d1",
+      "first_name": "Olivia",
+      "last_name": "Moore",
+      "favorite_number": "8",
+      "favorite_color": "WHITE"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d2",
+      "first_name": "Mia",
+      "last_name": "Martin",
+      "favorite_number": "17",
+      "favorite_color": "BLUE"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d3",
+      "first_name": "Aiden",
+      "last_name": "Taylor",
+      "favorite_number": "31",
+      "favorite_color": "GREEN"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d4",
+      "first_name": "Ava",
+      "last_name": "Anderson",
+      "favorite_number": "14",
+      "favorite_color": "RED"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d5",
+      "first_name": "Ethan",
+      "last_name": "Thomas",
+      "favorite_number": "27",
+      "favorite_color": "BLACK"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d6",
+      "first_name": "Isabella",
+      "last_name": "Harris",
+      "favorite_number": "9",
+      "favorite_color": "WHITE"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d7",
+      "first_name": "Lucas",
+      "last_name": "Nelson",
+      "favorite_number": "20",
+      "favorite_color": "BLUE"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d8",
+      "first_name": "Lily",
+      "last_name": "Cooper",
+      "favorite_number": "5",
+      "favorite_color": "GREEN"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430d9",
+      "first_name": "Carter",
+      "last_name": "Wright",
+      "favorite_number": "13",
+      "favorite_color": "RED"
+    },
+    {
+      "id": "6ba7b814-9dad-11d1-80b4-00c04fd430da",
+      "first_name": "Charlotte",
+      "last_name": "King",
+      "favorite_number": "29",
+      "favorite_color": "BLACK"
+    }
+  ]
