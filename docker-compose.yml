@@ -17,7 +17,7 @@ services:
     environment:
       - DEBUG=True
       - LOG_LEVEL=INFO
-      - KAFKA_BOOTSTRAP_SERVERS=confluent-local-broker-1:43113
+      - KAFKA_BOOTSTRAP_SERVERS=confluent-local-broker-1:42699  ## Use port of KAFKA_REST_BOOTSTRAP_SERVERS from env var confluent container
     # secrets:
     #   - secretName
 
